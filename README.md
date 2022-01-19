@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubal-mb" alt="rubal-mb" /> </p>
+
+I am a Computer Science Student, currently in pre final year student at SSIPMT, Raipur
+
+- 🌱 I’m currently learning Data Structure, AI
+- 🤔 I’m looking for creating a projects in python 
